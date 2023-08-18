@@ -17,9 +17,9 @@ body {
     align-items: center;
     justify-content: space-around;
 }
-.header-logo {
+/* .header-logo {
     padding: 0px 268px 0px 0px;
-}
+} */
 .nav-item {
     color: #fff;
     text-decoration: none;
